@@ -1,0 +1,48 @@
+# Summary and Conclusion on the basis of EDA
+
+1. 5 states have the highest number of accidents
+1)Miami                      186917
+2)Houston                    169609
+3)Los Angeles                156491
+4)Charlotte                  138652
+5)Dallas                     130939
+      
+2. Low Accidents in Summer and Higher Accidents on Winter
+
+3. New york data: Total number of accidents are 21699. 
+The count is lower even being the most populated city because of following reason:
+a) Urban infrastructure: Urban areas like New York City often have better road infrastructure, more emergency services, and more                          frequent law enforcement. 
+b) Community attitudes: Local cultures and attitudes towards safety measures can play a big role in road safety. For example,                           states with lower seatbelt usage rates tend to have higher fatality rates
+ 
+4. -A high percentage of accidents occur between 6 am to 10 am (probably people in a hurry to get to work)
+ - Next higest percentage is 3 pm to 6 pm.
+ - On Sundays, the peak occurs between 10 am and 3 pm, unlike weekdays
+
+5. - Weekdays have higher number of accidents compared to weekends
+ - Period of day :- Day(69%) & Night(31%)
+ - Friday have the most accidents on week   
+
+6. - Source of raw accident data :- Source 1(56%) & Source 2(43%)
+ - There seems to be some issue with the Source 3
+
+7. 80% of accidents are of 2nd level Severity
+
+8. December is the highest accident recoreded month followed by november
+
+9. The number of accidents per city decreases exponentially
+
+10. Presence of traffic_signal in a nearby location:- True(15%) & False(85%)
+
+11. Less than 5% of cities have more than 1000 yearly accidents.
+
+12. - Over one third of cities have less than 10 accidents
+  - Over 1200 cities have reported just one accident (need to investigate)
+
+13. Timezone based on the location of the accident :- US/Eastern(46%) & US/Pacific(27%)
+
+14. - Weather condition (rain, snow, thunderstorm, fog, etc.) :- Fair(33%) & Mostly Cloudy(13%)
+  - Low Accidents in Summer and Higher Accidents on Winter
+
+15. Presence of crossing in a nearby location:- True(11%) & False(89%)
+
+16. Much data is missing for 2016. Maybe even 2017.
